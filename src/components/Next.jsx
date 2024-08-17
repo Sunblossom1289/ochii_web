@@ -49,13 +49,13 @@ const Next = () => {
         >
           <div className='flex gap-2'>
             <button className='h-[3vw] m-9 w-[13vw] text-black font-semibold rounded-lg bg-zinc-300'>
-              BRAND IDENTITY
+              BRAND 
             </button>
             <button className='h-[3vw] m-9 w-[13vw] text-black font-semibold rounded-lg bg-zinc-300'>
-              DESIGN RESEARCH
+              DESIGN 
             </button>
             <button className='h-[3vw] m-9 w-[13vw] text-black font-semibold rounded-lg bg-zinc-300'>
-              INVESTOR DECK
+              INVEST
             </button>
           </div>
           <motion.h1
